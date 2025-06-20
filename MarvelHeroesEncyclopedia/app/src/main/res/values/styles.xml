@@ -1,0 +1,10 @@
+<resources>
+    <style name="DetailLabel">
+        <item name="android:textStyle">bold</item>
+        <item name="android:padding">4dp</item>
+    </style>
+    <style name="DetailValue">
+        <item name="android:padding">4dp</item>
+    </style>
+</resources>
+
